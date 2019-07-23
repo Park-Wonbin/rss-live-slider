@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/icon.png" width="25%" height="25%"/>
+</p>
+
 # RSS Live Slider
 
 This is a repository for 2019 D2 Fest mini. We're participating in development of 'Live Slider Android Application'. The main purpose is providing an awesome UX to users when watching a collection of subscribed rss.
@@ -9,7 +13,9 @@ This is a repository for 2019 D2 Fest mini. We're participating in development o
 - [RSS Search API](https://github.com/shhj1998/rss-search-api) - RSS API server that provides useful apis for fetching and creating rss feeds and news. It is written in Golang.
 
 ## Architecture
-
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/architecture.png"/>
+</p>
 
 
 ## Techniques
