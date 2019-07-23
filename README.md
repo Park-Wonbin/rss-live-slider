@@ -17,6 +17,7 @@ This is a repository for 2019 D2 Fest mini. We're participating in development o
   <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/architecture.png"/>
 </p>
 
+We divided the application into two parts - front end and back end. In the application(front end), it fetch rss data from the api server(back end). The api server not only provides rss data, it updates the database periodically. Every 25 minutes, it fetch the original rss data and insert into the database. 
 
 ## Features
 
