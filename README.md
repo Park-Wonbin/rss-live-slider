@@ -20,21 +20,32 @@ This is a repository for 2019 D2 Fest mini. We're participating in development o
 
 ## Features
 
-- RSS feeds in a slide view with live, rich animations
+> RSS feeds in a slide view with live, rich animations
 
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-1.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-2.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-3.gif" width="30%"/>
+</p>
 
+> News search by words
 
-- News search by words
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-4.gif" width="30%"/>
+</p>
 
+> Powerful RSS API Server
 
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/api-server.gif"/>
+</p>
 
-- Powerful RSS API Server
+> All of these features are now available to others as an open source with awesome documents!
 
-
-
-- All of these features are now available to others as an open source with awesome documents!
-
-
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/server-library.png" width="32%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/android-library.png" width="60%"/>
+</p>
 
 ## See Also
 
