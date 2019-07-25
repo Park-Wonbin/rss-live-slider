@@ -9,15 +9,15 @@ This is a repository for 2019 D2 Fest mini. We're participating in development o
 ## Repos
 
 - [Android RSS Viewer](https://github.com/Park-Wonbin/android-rss-viewer) - Android application that provides rss feeds with live slider.
-- [Android Live Slider](https://github.com/shhj1998/android-live-slider) - Android library that provides components for constructing a viewpager, recyclerview with live animations.
-- [RSS Search API](https://github.com/shhj1998/rss-search-api) - RSS API server that provides useful apis for fetching and creating rss feeds and news. It is written in Golang.
+- [Android Live Slider](https://github.com/shhj1998/android-live-slider) - Android library that provides components for constructing a slide view with live animations.
+- [RSS Search API](https://github.com/shhj1998/rss-search-api) - Provides useful apis for fetching and creating rss feeds and news which is written in Golang.
 
 ## Architecture
 <p align="center">
   <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/architecture.png"/>
 </p>
 
-We divided the application into two parts - front end and back end. In the application(front end), it fetch rss data from the api server(back end). The api server not only provides rss data, it updates the database periodically. Every 25 minutes, it fetch the original rss data and insert into the database. 
+We divided the application into two parts - front end and back end. In the application(front end), it fetch rss data from the api server(back end). The api server not only provides rss data, it updates the database periodically. Every 25 minutes, it fetch the current rss data and insert into the database. 
 
 ## Features
 
