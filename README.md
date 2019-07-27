@@ -29,7 +29,7 @@ We divided the application into two parts - front end and back end. In the appli
   <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-5.gif" width="30%"/>
 </p>
 
-> You can subscribe to the wanted RSS contents, and also can search news by words
+> You can subscribe RSS contents, and search by words
 
 <p align="center">
   <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-3.gif" width="30%"/>
