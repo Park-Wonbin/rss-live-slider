@@ -24,15 +24,16 @@ We divided the application into two parts - front end and back end. In the appli
 > RSS feeds in a slide view with live, rich animations
 
 <p align="center">
-  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-1.gif" width="30%"/>
-  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-2.gif" width="30%"/>
-  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-3.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-1.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-2.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-5.gif" width="30%"/>
 </p>
 
-> News search by words
+> You can subscribe to the wanted RSS contents, and also can search news by words
 
 <p align="center">
-  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/rss-viewer-4.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-3.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-4.gif" width="30%"/>
 </p>
 
 > Powerful RSS API Server
