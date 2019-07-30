@@ -36,6 +36,13 @@ We divided the application into two parts - front end and back end. In the appli
   <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-4.gif" width="30%"/>
 </p>
 
+> See and share the full article, or you can view all the previous news.
+
+<p align="center">
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-6.gif" width="30%"/>
+  <img src="https://github.com/Park-Wonbin/rss-live-slider/blob/master/images/new-rss-viewer-7.gif" width="30%"/>
+</p>
+
 > Powerful RSS API Server
 
 <p align="center">
